@@ -1,0 +1,156 @@
+Car brand,Model name,Cost per hour
+Toyota,Corolla,25.00
+Honda,Civic,22.50
+Ford,Fusion,23.75
+Nissan,Altima,24.00
+Chevrolet,Malibu,22.00
+BMW,3 Series,35.00
+Audi,A4,30.00
+Mercedes-Benz,C-Class,32.50
+Hyundai,Elantra,20.00
+Kia,Optima,21.50
+Volkswagen,Golf,26.50
+Subaru,Impreza,23.00
+Ford,Mustang,45.00
+Chevrolet,Camaro,42.50
+Dodge,Charger,40.00
+Tesla,Model 3,60.00
+Nissan,Maxima,26.00
+Toyota,Camry,27.50
+Honda,Accord,25.50
+Lexus,ES,38.00
+BMW,5 Series,42.00
+Audi,A6,40.50
+Mercedes-Benz,C-Class,45.50
+Ford,Explorer,33.00
+Chevrolet,Tahoe,36.50
+Jeep,Grand Cherokee,35.50
+Toyota,RAV4,29.00
+Honda,CR-V,28.50
+Subaru,Outback,30.50
+Ford,Escape,28.00
+Toyota,Highlander,37.00
+Hyundai,Santa Fe,34.50
+Nissan,Rogue,31.50
+Kia,Sorento,32.00
+Volkswagen,Tiguan,29.50
+BMW,X3,45.50
+Audi,Q5,42.00
+Mercedes-Benz,GLC,44.50
+Porsche,Cayenne,60.50
+Chevrolet,Silverado,38.50
+Ford,F-150,39.00
+RAM,1500,41.50
+GMC,Sierra,40.00
+Toyota,Tacoma,35.50
+Honda,Ridgeline,36.00
+Nissan,Frontier,34.00
+Jeep,Wrangler,37.50
+Subaru,Crosstrek,28.00
+Ford,EcoSport,26.50
+Chevrolet,Trax,25.50
+Honda,HR-V,27.00
+Toyota,C-HR,28.50
+Kia,Soul,24.50
+Hyundai,Kona,26.00
+Ford,Bronco Sport,30.00
+Jeep,Renegade,29.50
+Mazda,CX-5,33.50
+Subaru,Forester,32.00
+Volkswagen,Atlas,35.50
+Hyundai,Tucson,31.00
+Ford,Edge,34.00
+Kia,Sportage,32.50
+Toyota,4Runner,38.50
+Nissan,Murano,36.00
+Honda,Passport,37.00
+Chevrolet,Equinox,33.00
+BMW,X5,48.50
+Audi,Q7,47.00
+Mercedes-Benz,GLE,50.00
+Lexus,RX,46.50
+Ford,Expedition,44.00
+Chevrolet,Suburban,47.50
+GMC,Yukon,46.00
+Toyota,Land Cruiser,49.50
+Jeep,Grand Wagoneer,55.00
+Subaru,Ascent,41.50
+Volkswagen,Passat,27.00
+Nissan,Sentra,25.50
+Kia,Forte,24.00
+Ford,Focus,26.50
+Honda,Fit,23.00
+Toyota,Yaris,22.50
+Hyundai,Accent,21.00
+Chevrolet,Spark,20.50
+Mazda,Mazda3,28.50
+Subaru,Legacy,27.00
+Volkswagen,Jetta,25.50
+Ford,Taurus,29.00
+Nissan,Versa,26.50
+Kia,Rio,24.00
+Toyota,Prius,30.00
+Honda,Insight,29.50
+Hyundai,Ioniq,28.00
+Chevrolet,Volt,31.50
+BMW,i3,35.00
+Tesla,Model S,60.00
+Nissan,Leaf,32.00
+Ford,Mustang Mach-E,45.50
+Kia,Niro,34.50
+Toyota,Sienna,36.00
+Honda,Odyssey,35.00
+Chrysler,Pacifica,38.50
+Dodge,Grand Caravan,37.00
+Ford,Transit,40.00
+Chevrolet,Express,39.50
+GMC,Savana,42.50
+Mercedes-Benz,Sprinter,45.00
+RAM,ProMaster,44.00
+Toyota,Sienna,38.00
+Honda,Odyssey,37.50
+Chrysler,Pacifica,39.00
+Dodge,Grand Caravan,36.50
+Ford,Transit,42.00
+Chevrolet,Express,40.50
+GMC,Savana,44.50
+Mercedes-Benz,Sprinter,46.00
+RAM,ProMaster,43.50
+Toyota,86,34.50
+Subaru,BRZ,33.00
+Ford,Mustang,45.00
+Chevrolet,Camaro,43.50
+Dodge,Challenger,42.00
+BMW,Z4,52.50
+Mazda,MX-5 Miata,36.00
+Porsche,718 Boxster,60.00
+Audi,TT,49.50
+Mini,Cooper Convertible,38.00
+Fiat,124 Spider,35.50
+Volkswagen,Beetle Convertible,37.00
+Ford,Bronco,48.50
+Jeep,Wrangler,46.00
+Land Rover,Defender,52.00
+Toyota,Land Cruiser,50.50
+Lexus,LX,55.50
+Mercedes-Benz,G-Class,58.00
+BMW,X7,56.50
+Audi,Q8,54.00
+Volkswagen,Atlas Cross Sport,45.50
+Volvo,XC90,49.00
+Tesla,Model X,65.00
+Jaguar,F-PACE,58.50
+Porsche,Cayenne,60.50
+Maserati,Levante,70.00
+Bentley,Bentayga,95.00
+Rolls-Royce,Cullinan,120.00
+Ferrari,488 GTB,150.00
+Lamborghini,Huracan,200.00
+Aston Martin,Vantage,175.00
+McLaren,720S,180.00
+Bugatti,Chiron,500.00
+Koenigsegg,Jesko,600.00
+Pagani,Huayra,550.00
+Rimac,C_Two,650.00
+Lucid,Air,70.00
+Rivian,R1T,65
