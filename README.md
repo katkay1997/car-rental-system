@@ -11,7 +11,7 @@ Afterwards, the program will display a list of cars that are available during th
 I have contributed to this project using a MacBook and the other collaborators contributed on PCs. Make sure you have a complier downloaded. You can use CLion (free for students), CodeBlocks, Visual Studio Code and more! Fork this project to your own Github account.
 You cannot contribute to this project but you can duplicate it and customize it to your preference. 
 
-Here’s a list of the other collobrators: @Anthony4m, @JayRiordan, @16mattice 
+Here’s a list of the other collobrators: @Anthony4m, @JayRiordan, @16mattice, @LoganWorthington,@Ascor8522 
 
 
 
