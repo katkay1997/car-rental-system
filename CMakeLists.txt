@@ -13,7 +13,11 @@ set(CMAKE_EXE_LINKER_FLAGS "${CMAKE_EXE_LINKER_FLAGS} -lpthread")
 # add_library(libuuid uuid/uuid.h)
 
 add_executable(CarRentalSystem
-        src/index.cpp)
+        src/index.cpp
+        src/entities/Car.cpp
+        src/entities/CarRental.cpp
+        src/entities/User.cpp
+        src/utils/csv.cpp)
 
 target_include_directories(CarRentalSystem
         PRIVATE ${CMAKE_CURRENT_SOURCE_DIR}/include/CarRentalSystem)
